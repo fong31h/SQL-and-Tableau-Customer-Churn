@@ -31,6 +31,6 @@ As shown, Month-to-Month contracts suffer from significantly higher churn rates 
 
 The second insight that was discovered is the extremely high churn rates of contracts within their first year.
 
-![Tenure Churn[)/asses/tenure-churn.png)
+![Tenure Churn](/asses/tenure-churn.png)
 
 This insight is especially important because it affects not only Month-to-Month contracts, but One-year and Two-year contracts as well. This implies that contracts within their first year are inherently unstable, a possible point of address for SpectraTel.
