@@ -27,10 +27,33 @@ The first insight that was discovered was the weakness in Month-to-Month contrac
 
 ![Contract Churn](/assets/Contract-type.png)
 
-As shown, Month-to-Month contracts suffer from significantly higher churn rates than other types.
+As shown, Month-to-Month contracts suffer from significantly higher churn rates than other types. ~46% vs ~ 16%. Indeed, One-year and Two-year contracts have extremely low churn rates, meaning that any reduction to Month-to-Month churn rates will have an even greater effect on overall company churn rate.
 
 The second insight that was discovered is the extremely high churn rates of contracts within their first year.
 
-![Tenure Churn](/asses/tenure-churn.png)
+![Tenure Churn](/assets/tenure-churn.png)
 
 This insight is especially important because it affects not only Month-to-Month contracts, but One-year and Two-year contracts as well. This implies that contracts within their first year are inherently unstable, a possible point of address for SpectraTel.
+
+What is the actual impact of these increases in churn rate though? Using SpectraTel's average 33% churn rate as a baseline, a estimate of total customer and revenue losses was created in order to measure the true impact of customer churn.
+
+The first chart shows the estimated difference in customers lost during the first year versus other years.
+
+![Customer loss](/assets/Customers-churned.png)
+
+As shown, nearly 500 customers are lost over the average during the first year. This is a very high rate that needs to be addressed.
+
+The second chart shows the estimated revenue loss over the first year.
+
+![Revenue loss](/assets/Revenue-loss.png)
+
+This chart quantifies even further the cost of sustaining such a high churn rate in the first year. Revenue losses exceed $3.5 million from lost customers.
+
+Ulimately, the analysis comes away with two suggestions: 
+
+First, address first year contracts. With $3.5 million in losses from customer churn, SpectraTel can afford to lower prices or offer deals to first year customers. Even at lower prices, if customers stay on past the first year we see that they tend to become long-lasting paying customers.
+
+Second, address Month-to-Month contracts. Incentives to move to One-year and Two-year contracts may be a solution. However, this should be approached carefully and with further analysis because the revenue impact is less clear than first year contracts.
+
+This concludes the customer churn analysis.
+
